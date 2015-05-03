@@ -4,7 +4,7 @@ Plugin Name:       	Posts from Single Category Widget
 Plugin URI:        	http://www.shashidharkumar.com/post-from-single-category-widget-wordpress/
 Author URI:        	http://www.shashidharkumar.com/
 Author:            	Shashidhar Kumar
-Donate link: 		http://www.shashidharkumar.com/
+Donate link: 		http://www.shashidharkumar.com/donate/
 Tags: 			plugin, posts, posts from category, multiple posts from category, widget, Wordpress
 Requires at least: 	4.0
 Tested up to: 		4.2.1

@@ -6,7 +6,7 @@ Plugin URI:        	http://www.shashidharkumar.com/post-from-single-category-wid
 Description: 		This plugin is a widget that displays a list of posts from single category on your sidebar. You can also assign how may words will be display for each category content. You can customize your Read more text as well.
 Author URI:        	http://www.shashidharkumar.com/
 Author:            	Shashidhar Kumar
-Donate link: 		http://www.shashidharkumar.com/
+Donate link: 		http://www.shashidharkumar.com/donate/
 Tags: 				plugin, posts, posts from category, multiple posts from category, widget, Wordpress
 Requires at least: 	4.0
 Tested up to: 		4.2.1
